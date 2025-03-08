@@ -1,0 +1,2 @@
+Shortest distance value: 2627.47 miles
+Sequence order of 10 cities: E -> F -> G -> H -> I -> C -> J -> A -> B -> D
