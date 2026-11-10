@@ -1,0 +1,21 @@
+# API credentials
+.env
+.env.*
+
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# Local benchmark results
+results/*.json
+
+# VS Code settings
+.vscode/

@@ -1,0 +1,53 @@
+
+[
+  {
+    "id": 1,
+    "category": "factual",
+    "prompt": "What is a Large Language Model? Explain in three sentences."
+  },
+  {
+    "id": 2,
+    "category": "factual",
+    "prompt": "Explain the difference between RAG and fine-tuning."
+  },
+  {
+    "id": 3,
+    "category": "reasoning",
+    "prompt": "A product costs $120 and has a 15% discount. What is the final price? Show your calculation."
+  },
+  {
+    "id": 4,
+    "category": "reasoning",
+    "prompt": "Compare two approaches to processing 1 million records: sequential processing and parallel processing."
+  },
+  {
+    "id": 5,
+    "category": "coding",
+    "prompt": "Write a Python function to find duplicate values in a list."
+  },
+  {
+    "id": 6,
+    "category": "coding",
+    "prompt": "Write a SQL query to find the second-highest salary in an employees table."
+  },
+  {
+    "id": 7,
+    "category": "creative",
+    "prompt": "Write a short product description for an AI-powered shopping assistant."
+  },
+  {
+    "id": 8,
+    "category": "creative",
+    "prompt": "Explain cloud computing using a restaurant analogy."
+  },
+  {
+    "id": 9,
+    "category": "customer_support",
+    "prompt": "Classify this message as billing, technical support, or general inquiry: 'I was charged twice for my subscription.' Return only the category."
+  },
+  {
+    "id": 10,
+    "category": "customer_support",
+    "prompt": "Classify this message as billing, technical support, or general inquiry: 'My application crashes whenever I upload a file.' Return only the category."
+  }
+]
